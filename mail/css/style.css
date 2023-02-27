@@ -7,4 +7,19 @@
 body {
     font-family: 'Courier New', Courier, monospace;
     background-color: aquamarine;
+
+}
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+p {
+    /* text-transform: uppercase; */
+    font-size: 30px;
+    /* color: white; */
 }
